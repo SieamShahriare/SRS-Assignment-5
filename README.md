@@ -1,4 +1,4 @@
-# Ilm — Student Information System Redesign
+# IUT — Student Information System Redesign
 
 An interactive, wireframe-style redesign of the IUT Student Information System (SIS), built as a usability case study for a Software Requirements Specification (SRS) course.
 
